@@ -25,8 +25,6 @@ weight = 1
     # image = "me.jpg" 
     # imageQuality = 96
 
-    # links = [
-    #   { email = "mailto:a@gmail.edu" },
-      { link = "https://professional.z-hg.com", icon = "briefcase", text = "Professional Page" },
-    #   { github = "https://github.com/a" }
-    # ]
+    links = [
+      { link = "https://professional.z-hg.com", icon = "briefcase", text = "Professional Page" }
+    ]
