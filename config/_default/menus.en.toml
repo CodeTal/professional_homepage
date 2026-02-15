@@ -27,6 +27,8 @@
   name = "← Portal"
   url = "https://www.z-hg.com"
   weight = 100
+  [main.params]
+    newTab = false
 
 #[[main]]
 #  name = "Blog"
