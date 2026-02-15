@@ -7,7 +7,7 @@ categories: ["category_1", "category_2"]
 description: ""
 
 cover:
-  image: "images/cottage.jpg"
+  image: "images/mountain.jpg"
   alt: "Cottage"
   caption: "View"
   relative: false
@@ -16,3 +16,5 @@ cover:
 ## Hello!
 
 Hi
+
+![Test Image](/images/mountain.jpg)
