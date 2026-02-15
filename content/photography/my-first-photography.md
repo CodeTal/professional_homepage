@@ -7,7 +7,7 @@ categories: ["category_1", "category_2"]
 description: ""
 
 cover:
-  image: "images/cottage.jpg"  # static/images/cottage.jpg
+  image: "/images/cottage.jpg"  # static/images/cottage.jpg
   alt: "Cottage"
   caption: "View"
   relative: false
