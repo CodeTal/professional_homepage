@@ -2,7 +2,6 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
 
 [params]
   displayName = "EN"
@@ -13,6 +12,12 @@ title = "Blowfish"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
+
+  [params.homepage]
+    title = "Hi, I'm H. Zhou."
+    description = """
+    I am a student.
+    """
 
 # [params.author]
 #   name = "Your name here"
