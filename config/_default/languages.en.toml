@@ -1,4 +1,4 @@
-title = "HZ's Personal Website"
+title = "HZ's Professional Website"
 languageCode = "en"
 languageName = "English"
 weight = 1
@@ -13,7 +13,7 @@ weight = 1
   [params.homepage]
     showRecentItems = 5
     description = """
-    Welcome to my personal corner. Here I share my thoughts on research, experiments in the kitchen, and moments captured through my lens.
+    Welcome to my professional corner.
     """
 
   [params.author]
@@ -26,5 +26,5 @@ weight = 1
     # imageQuality = 96
 
     links = [
-      { link = "https://professional.z-hg.com", icon = "briefcase", text = "Professional Page" }
+      { link = "https://personal.z-hg.com", icon = "briefcase", text = "Personal Page" }
     ]

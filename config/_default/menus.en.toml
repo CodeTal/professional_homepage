@@ -11,19 +11,21 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  identifier = "blogs"
-  name = "Blogs"
-  url = "/blogs/"
+  name = "About"
+  url = "/"
   weight = 10
 
 [[main]]
-  identifier = "photography"
-  name = "Photography"
-  url = "/photography/"
+  name = "Research"
+  url = "research/"
   weight = 20
 
 [[main]]
-  identifier = "portal"
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 30
+
+[[main]]
   name = "Portal"
   url = "https://www.z-hg.com"
   weight = 100
